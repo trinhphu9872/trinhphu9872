@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trinhphu9872
+- 👋 Hi, I’m Shin
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning Van Lang University
 - 💞️ I’m looking to collaborate on ...
