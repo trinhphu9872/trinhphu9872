@@ -1,6 +1,6 @@
 
 </br>
-<a href="https://www.linkedin.com/in/shin-tr%E1%BB%8Bnh-515581203/">
+<a href="https://www.linkedin.com/in/shin-tr%E1%BB%8Bnh-515581203/" target="_blank">
   <img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
